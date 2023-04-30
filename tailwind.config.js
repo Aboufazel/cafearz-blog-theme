@@ -18,7 +18,6 @@ module.exports = {
                 secondaryText: "rgba(26, 28, 32, 0.5)",
                 blackText: "#21294D",
                 duringBox: "#F2F2F2",
-                linerBg: "linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #F7F8FD 100%)",
                 secondaryButtonHover: "#EEB60D",
             },
         },
